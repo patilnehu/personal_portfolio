@@ -11,18 +11,18 @@ export const PROJECTS = [
     // image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "React"],
+    technologies: ["HTML", "Javascript", "React"],
   },
   {
     title: "Portfolio Website",
     // image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "React", "Tailwind CSS"],
+    technologies: ["HTML", "Javascript", "React", "Tailwind CSS"],
   },
   {
     title: "Netflix Home Page -Clone",
-    image: Netflix.png,
+    // image: Netflix.png,
     description:
       "A clone of the Netflix home page, built using Html, CSS, Javascript.",
     technologies: ["HTML", "CSS", "Javascript"],
