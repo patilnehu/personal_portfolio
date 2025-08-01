@@ -12,7 +12,7 @@ export function HeroSection() {
             WELCOME TO MY WORLD
           </h1>
           <h1 className="text-3xl md:text-5xl  text-gray-900 dark:text-white  mb-6 leading-tight">
-            Hi, I'm Neha Arun Patil
+            Hi, I`&apos;`m Neha Arun Patil
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300  mb-8 max-w-2xl mx-auto">
             Frontend Developer passionate about creating beautiful and

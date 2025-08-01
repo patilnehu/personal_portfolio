@@ -20,7 +20,7 @@ export function ContactSection() {
             <div className="space-y-8">
               <div>
                 <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 text-center">
-                  I'm always open to discussing new opportunities and
+                  I`&apos;`m always open to discussing new opportunities and
                   interesting projects. Feel free to reach out.
                 </p>
               </div>
