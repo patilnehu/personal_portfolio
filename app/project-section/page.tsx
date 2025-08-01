@@ -19,10 +19,10 @@ export default function ProjectsSection() {
       title: "Portfolio Website",
       description:
         "A responsive portfolio website showcasing modern design principles and smooth animations.",
-      technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      image: "/PortfolioApp.jpg",
-      code: "",
-      live: "",
+      technologies: ["Next.js", "Typescript", "Tailwind CSS", "Framer Motion"],
+      image: "/Portfolio.png",
+      code: "https://github.com/patilnehu/persnal_portfolio",
+      live: "https://persnal-portfolio-xi.vercel.app/",
     },
     {
       title: "Ai Chatbot",

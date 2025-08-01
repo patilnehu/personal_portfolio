@@ -10,11 +10,11 @@ export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navItems = [
-    { name: "Home", href: "#home" },
-    { name: "About", href: "#about" },
-    { name: "Technologies", href: "#technologies" },
-    { name: "Projects", href: "#projects" },
-    { name: "Contact", href: "#contact" },
+    { name: "Home", href: "/home" },
+    { name: "About", href: "/about-section" },
+    { name: "Technologies", href: "/technologies-section" },
+    { name: "Projects", href: "/project-section" },
+    { name: "Contact", href: "/contact-section" },
   ];
 
   return (
