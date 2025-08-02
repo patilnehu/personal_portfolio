@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { CheckCircle, Code, Users, Zap } from "lucide-react";
 
-export function AboutSection() {
+export default function AboutSection() {
   const responsibilities = [
     "Converting Figma designs to functional web pages",
     "Building reusable components and maintaining design consistency",
@@ -13,10 +13,7 @@ export function AboutSection() {
   const techStack = ["Next.js", "TypeScript", "Tailwind CSS", "Figma"];
 
   return (
-    <section
-      id="about"
-      className="py-20 bg-white dark:bg-gray-800 transition-colors duration-300"
-    >
+    <section className="py-20 bg-white dark:bg-gray-800 transition-colors duration-300">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center text-gray-900 dark:text-white mb-16">

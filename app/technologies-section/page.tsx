@@ -1,6 +1,6 @@
 import { Card, CardContent } from "@/components/ui/card";
 
-export function TechnologiesSection() {
+export default function TechnologiesSection() {
   const techStack = {
     "Programming Languages": [
       { name: "HTML5", color: "bg-orange-400 text-black", icon: "🌐" },
