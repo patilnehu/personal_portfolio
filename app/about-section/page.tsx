@@ -163,14 +163,14 @@ export default function AboutSection() {
                   </div>
                 </CardContent>
               </Card>
-              <div className="text-center p-6 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 rounded-xl">
+              {/* <div className="text-center p-6 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 rounded-xl">
                 <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">
-                  1+
+                  1
                 </div>
                 <div className="text-gray-600 dark:text-gray-400 font-medium">
-                  Years Experience
+                  Year Experience
                 </div>
-              </div>
+              </div> */}
               <div className="text-center p-6 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 rounded-xl">
                 <div className="text-3xl font-bold text-blue-600 dark:text-blue-400">
                   4

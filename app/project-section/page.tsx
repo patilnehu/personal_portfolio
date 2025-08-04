@@ -6,15 +6,15 @@ import Image from "next/image";
 
 export default function ProjectsSection() {
   const projects = [
-    {
-      title: "Task Management App",
-      description:
-        "A collaborative task management application with real-time updates and team collaboration features.",
-      technologies: ["React", "Javascript", "Tailwind CSS"],
-      image: "/TaskApp.jpg",
-      code: "",
-      live: "",
-    },
+    // {
+    //   title: "Task Management App",
+    //   description:
+    //     "A collaborative task management application with real-time updates and team collaboration features.",
+    //   technologies: ["React", "Javascript", "Tailwind CSS"],
+    //   image: "/TaskApp.jpg",
+    //   code: "",
+    //   live: "",
+    // },
     {
       title: "Portfolio Website",
       description:
